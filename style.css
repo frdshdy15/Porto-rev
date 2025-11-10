@@ -71,7 +71,9 @@ a {
 
 
 /* --- Utilities & Struktur Utama --- */
-
+.desktop-nav {
+    display: none;
+}
 
 .section {
     padding: 80px 5%;
